@@ -13,14 +13,6 @@ Recommendation systems are pivotal in aiding users to explore relevant content. 
 3. Implement and evaluate content-based filtering models employing diverse machine learning algorithms.
 4. Compare model performance to determine the best approach.
 
-## Structure:
-  Introduction to the project.
-  Methodology and code implementation.
-  Results and analysis.
-  Discussion of findings and recommendations.
-  Conclusion summarizing the report.
-
-  
 ## Methodology:
 The project initiates with data preparation and EDA, exploring user demographics, common genres, and rating trends over time. It establishes a baseline model and delves into content-based filtering models, detailing item representation, user profiles, similarity measures, recommendation generation, and scoring formulas. Different machine learning algorithms like linear regression, Lasso regression, K-nearest neighbors, random forest regression, and support vector regression are implemented, trained, tested, and evaluated using RMSE as the metric.
 
